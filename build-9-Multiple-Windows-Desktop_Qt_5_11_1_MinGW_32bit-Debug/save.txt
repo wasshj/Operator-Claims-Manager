@@ -1,0 +1,15 @@
+aaaaa bbbbb  Ouvert  Réclamation_usuelle cccc  dddd SAV_DATA CNOC
+zzz zzzz  Ouvert  Réclamation_usuelle zzzz  zzzz SAV_DATA CNOC
+rrr rrrrr  Ouvert  Réclamation_usuelle rrr  rrr SAV_DATA CNOC
+ttt ttt  Ouvert  Réclamation_usuelle ttt  ttt SAV_DATA CNOC
+wwww www  Ouvert  Réclamation_usuelle www  www SAV_DATA CNOC
+vvvv vvv  Ouvert  Réclamation_usuelle vvv  vvv SAV_DATA CNOC
+uu uuuu  Ouvert  Réclamation_usuelle uu  uuu SAV_DATA CNOC
+sss ssss  Résolu  Réclamation_usuelle ss  sss SAV_DATA CNOC
+nnn nnn  Résolu  Réclamation_usuelle nnn  nnn SAV_DATA CNOC
+yy yyy  Résolu  Réclamation_usuelle yyy  yyyy SAV_DATA CNOC
+pp ppp  Ouvert  Réclamation_usuelle pp  pp SAV_DATA CNOC
+kk kk  En_attente  Réclamation_usuelle kkk  kkk SAV_DATA CNOC
+hh hh  En_attente  Réclamation_usuelle hh  hh SAV_DATA CNOC
+fff fff  Ouvert  Réclamation_usuelle 2222  fff SAV_DATA CNOC
+          

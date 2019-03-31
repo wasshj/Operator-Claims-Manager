@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/tt.png</file>
+        <file>img/Sans titre-2.png</file>
+        <file>img/Sans titre-3.png</file>
+        <file>img/Sans titre-4.png</file>
+        <file>img/login.png</file>
+        <file>img/Sans titreonHover.png</file>
+        <file>img/Sans titre-5.png</file>
+        <file>img/Sans titre-6.png</file>
+        <file>img/plain-blue-background-wallpaper-3.jpg</file>
+        <file>img/2560x1440-dark-midnight-blue-solid-color-background.jpg</file>
+        <file>img/user.png</file>
+        <file>img/send.png</file>
+        <file>img/inbox.png</file>
+        <file>img/refresh.png</file>
+        <file>img/settings.png</file>
+        <file>img/construction.png</file>
+        <file>img/delete.png</file>
+        <file>img/2nd.png</file>
+        <file>img/2ndnolight.png</file>
+        <file>img/1nolight.png</file>
+        <file>img/1withlight.png</file>
+        <file>img/1fblight.png</file>
+        <file>img/1weblight.png</file>
+        <file>img/passwithlight.png</file>
+        <file>img/tunisietelecom.png</file>
+        <file>img/icontt.png</file>
+        <file>img/icontt2.png</file>
+        <file>img/manyusers.png</file>
+        <file>img/oneuser.png</file>
+        <file>img/technical-support.png</file>
+        <file>img/ca.png</file>
+        <file>img/cnoc.png</file>
+        <file>img/UE.png</file>
+    </qresource>
+</RCC>

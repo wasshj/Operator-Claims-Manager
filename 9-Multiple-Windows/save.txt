@@ -1,0 +1,9 @@
+aaa.aaa aaa.aaa Ouvert Réclamation.usuelle aaa.aaa aaa.aaa SAV.DATA CNOC None None None None
+bb.bbbb bb.bbbb Ouvert Réclamation.usuelle bb.bbbb bb.bbbb SAV.DATA CNOC None None None None
+ccc.ccccc ccc.ccccc Ouvert Réclamation.usuelle ccc.ccccc ccc.ccccc SAV.DATA CNOC None None None None
+aaa.aaa............. aaa.aaa............. Résolu Réclamation.usuelle. aaa.aaa............. aaa.aaa............. SAV.DATA............ CNOC................ None................ Ligne.non.synchro Code.Cloture dds.dsd.23..........
+Societe.A 216.3.128.12 Ouvert Réclamation.usuelle 234JDN PRODUIT.1 SAV.DATA CNOC None None None None
+Societe.B 213.12.3.34 Ouvert Réclamation.usuelle 434T65 Prd.B2 SAV.DATA CNOC None None None None
+Societe.C 89.43.45.33 Ouvert Réclamation.usuelle 9897Y Prd.C3 SAV.DATA CNOC None None None None
+Societe.D 123.34.32.23 Ouvert Réclamation.usuelle 34234F D334 SAV.DATA CNOC None None None None
+           
